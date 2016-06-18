@@ -1,0 +1,24 @@
+home:(havent figured out the typing machine effect)(mostly done)
+	innovation and consultancy: TBD
+	about us:TBD
+	education:
+		Programmes:
+			Programmes offered (done)
+			Leaders of Tomorrow:
+				Intro+Testimonials(done)				
+				Features+Advantages(done)
+				Overview of all the events()
+				About the Trainer(s) (done)		
+			Get Psyched
+			Theory of Inventive Problem Solving
+			Fashion Design
+			SL
+			TOC
+		Products:TBD
+		Projects:TBD
+		Trainers: List of all Trainers with specific courses + qualification
+	contact(done)
+	gallery(done)
+	blog
+	schedule(?)
+	

@@ -1,0 +1,23 @@
+home:
+	innovation and consultancy: TBD
+	about us:TBD
+	education:
+		Programmes:
+			Leaders of Tomorrow:
+				Intro+Testimonials				
+				Features+Advantages
+				Overview				
+				About the Trainer(s)		
+			Get Psyched
+			Theory of Inventive Problem Solving
+			Fashion Design
+			SL
+			TOC
+		Products:TBD
+		Projects:TBD
+		Trainers: List of all Trainers with specific courses + qualification
+	contact
+	gallery
+	blog
+	schedule
+	
